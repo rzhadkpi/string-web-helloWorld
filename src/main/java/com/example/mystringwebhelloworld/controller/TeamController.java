@@ -136,7 +136,7 @@ public class TeamController {
                 "        </div>\n" +
                 "        <div class=\"info-block\">\n" +
                 "            <label for=\"description\">Description:</label>\n" +
-                "            <div id=\"description\">Backend frontend developer responsible for managing projects and cooking with frontend. Proud $HMSTR holder</div>\n" +
+                "            <div id=\"description\">Backend and frontend developer responsible for managing project and cooking with frontend. Proud $HMSTR holder</div>\n" +
                 "        </div>\n" +
                 "        <div class=\"button-container\">\n" +
                 "            <a href=\"/team\" class=\"back-button\">Back to Team</a>\n" +
